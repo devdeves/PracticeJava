@@ -1,4 +1,4 @@
-package prototype;
+package prototype.student;
 
 public class IntelligentStudent extends Student{
     private int iq;

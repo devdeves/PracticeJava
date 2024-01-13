@@ -1,4 +1,4 @@
-package prototype;
+package prototype.student;
 
 
 public class Student implements CloneableStudent{
